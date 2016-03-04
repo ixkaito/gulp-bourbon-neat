@@ -1,0 +1,32 @@
+{
+  "name": "gulp-bourbon-neat",
+  "version": "1.0.0",
+  "description": "A minimum configuration to use Bourbon/Neat with Gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bourbon": "^5.0.0-beta.2",
+    "bourbon-neat": "^1.7.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixkaito/gulp-bourbon-neat.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Bourbon",
+    "Neat"
+  ],
+  "author": "Kite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixkaito/gulp-bourbon-neat/issues"
+  },
+  "homepage": "https://github.com/ixkaito/gulp-bourbon-neat#readme"
+}
